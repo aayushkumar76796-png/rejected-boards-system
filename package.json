@@ -1,7 +1,7 @@
 {
   "name": "rejected-boards-system",
   "version": "1.0.0",
-  "description": "Quality Control System",
+  "description": "lity Control System",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
