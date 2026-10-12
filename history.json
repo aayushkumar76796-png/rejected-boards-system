@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1234",
+    "productName": "ST-30-12-8CH-B",
+    "boardType": "Base",
+    "issueName": "short vcc and gnd",
+    "checkedBy": "aayush",
+    "partNo": "8 channel 12v 30a relay board",
+    "timestamp": "10/12/2026, 10:39:00 AM"
+  },
+  {
+    "id": "4567",
+    "productName": "8 channel 12v 30a",
+    "boardType": "Base",
+    "issueName": "5th relay  always on  transistor already changed",
+    "checkedBy": "aayush",
+    "partNo": "ST-30-12-8CH-B",
+    "timestamp": "10/12/2026, 10:43:33 AM"
+  }
+]
